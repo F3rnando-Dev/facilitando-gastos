@@ -1,4 +1,4 @@
-package models;
+package com.facilitandogastos.facilitandogastos.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -19,7 +19,5 @@ public class ContaContabil implements Serializable {
     @Getter
     @Setter
     private String descricao;
-
-    
 
 }
