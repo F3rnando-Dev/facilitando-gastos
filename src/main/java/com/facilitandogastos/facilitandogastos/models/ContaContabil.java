@@ -7,7 +7,7 @@ import lombok.Setter;
 import java.io.Serializable;
 
 @Entity
-@Table(name = "TB_CONTACONTABIL")
+@Table(name = "TB_CONTASCONTABEIS")
 public class ContaContabil implements Serializable {
 
     private static final long serialVersionUID = 1L;
